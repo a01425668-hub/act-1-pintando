@@ -42,9 +42,9 @@ Ejecuta el código
 * **[Diana Cristina Barreto López]**
   * **Rol:** Master
   * **Matrícula:** A01425668
-  * **GitHub:** [@a01425668-hub](https://github.com)
+  * **GitHub:** [@a01425668-hub](https://github.com/a01425668-hub)
 
 * **Carlos Alberto Galán**
   * **Rol:** Fork
   * **Matrícula:** A01425194
-  * **GitHub:** [@CarlosGalan194](https://github.com)
+  * **GitHub:** [@CarlosGalan194](https://github.com/CarlosGalan194)
